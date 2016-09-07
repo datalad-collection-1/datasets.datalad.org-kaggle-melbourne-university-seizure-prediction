@@ -1,0 +1,40 @@
+{
+  "db_version": 1,
+  "files": {
+    "sample_submission.csv": {
+      "filename": "sample_submission.csv",
+      "mtime": 1472582436,
+      "size": 76328
+    },
+    "test_1.zip": {
+      "filename": "test_1.zip",
+      "mtime": 1471401203,
+      "size": 7343813366
+    },
+    "test_2.zip": {
+      "filename": "test_2.zip",
+      "mtime": 1471401171,
+      "size": 11835223402
+    },
+    "test_3.zip": {
+      "filename": "test_3.zip",
+      "mtime": 1471401137,
+      "size": 12340885417
+    },
+    "train_1.zip": {
+      "filename": "train_1.zip",
+      "mtime": 1471401214,
+      "size": 6150653870
+    },
+    "train_2.zip": {
+      "filename": "train_2.zip",
+      "mtime": 1471401185,
+      "size": 12271708613
+    },
+    "train_3.zip": {
+      "filename": "train_3.zip",
+      "mtime": 1471401120,
+      "size": 12832376822
+    }
+  }
+}
